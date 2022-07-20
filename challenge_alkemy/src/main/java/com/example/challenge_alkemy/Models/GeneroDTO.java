@@ -12,4 +12,5 @@ public class GeneroDTO {
     private Integer id;
     private String nombre;
     private String urlImg;
+
 }
