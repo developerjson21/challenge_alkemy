@@ -1,4 +1,4 @@
-package com.example.challenge_alkemy.Config;
+package com.example.challenge_alkemy.config;
 
 import org.modelmapper.ModelMapper;
 import org.modelmapper.convention.NamingConventions;
